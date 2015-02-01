@@ -1,0 +1,1 @@
+(function(e,t){t(document).ready(function(){t('a[rel="external"], a[rel="social"], a[rel="download"]').click(function(){this.target="_blank"});t('a[href="#"]').attr("href","javascript:;")})})(window,jQuery);
